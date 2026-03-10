@@ -1,12 +1,12 @@
 # To-Do List for maisondevacances.abidjan
-KAYAKGROUP-R�SIDENCE MEUBL�E Website
+KAYAKGROUP-RéSIDENCE MEUBLéE Website
 
 ## Project Overview
 - **Company Name:** maisondevacances.abidjan
-KAYAKGROUP-R�SIDENCE MEUBL�E
+KAYAKGROUP-RéSIDENCE MEUBLéE
 - **Directory:** maisondevacances_abidjan_kayakgroup_r_sidence_meubl_e
 - **Address/Contact:** 
-  - Location de maisons de vacances � Babi ????
+  - Location de maisons de vacances é Babi ????
   - +225 05 85 24 23 80 WhatsApp ???
 - **Description:** 
 - **Social Media:** https://www.tiktok.com/@maisondevacances.abidjan
@@ -25,7 +25,7 @@ KAYAKGROUP-R�SIDENCE MEUBL�E
 - [ ] Update package.json:
   - Name: maisondevacances-abidjan-kayakgroup-r-sidence-meubl-e  - Version: 0.1.0- [ ] Update index.html:
   - Title: maisondevacances.abidjan
-KAYAKGROUP-R�SIDENCE MEUBL�E  - Meta description: ...
+KAYAKGROUP-RéSIDENCE MEUBLéE  - Meta description: ...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -42,7 +42,7 @@ theme.extend.colors.primary to match the brand.
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
   - Replace the hero title with "maisondevacances.abidjan
-KAYAKGROUP-R�SIDENCE MEUBL�E".
+KAYAKGROUP-RéSIDENCE MEUBLéE".
   - Update the subtitle with: "".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
